@@ -1,1 +1,20 @@
-/*Schrijf hier jouw CSS*/
+.opdracht-1 ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.opdracht-2 ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    height: 120px;
+}
+
+.container-items-ul {
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+}
