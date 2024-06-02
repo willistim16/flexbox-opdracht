@@ -22,7 +22,6 @@ header {
 
 article {
     height: 70vh;
-    flex: fit-content;
 }
 
 footer{
