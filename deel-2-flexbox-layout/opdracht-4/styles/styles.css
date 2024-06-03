@@ -6,7 +6,6 @@ body {
 
 .outer-col-1 {
     flex-basis: 20vw;
-    height: 100vh;
     flex-grow: 0;
     flex-shrink: 0;
 }
