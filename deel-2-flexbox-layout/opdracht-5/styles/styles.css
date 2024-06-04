@@ -20,6 +20,7 @@ header {
 article {
     flex-basis: 60vw;
     order: 2;
+    flex: fit-content;
 }
 
 nav {
